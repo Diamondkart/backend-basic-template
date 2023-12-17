@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sln.Persistence", "src\sln.Persistence\sln.Persistence.csproj", "{D7986225-E167-45C9-8305-A7A78D62852B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src.Persistence", "src\src.Persistence\src.Persistence.csproj", "{D7986225-E167-45C9-8305-A7A78D62852B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sln.ApplicationCore", "src\sln.ApplicationCore\sln.ApplicationCore.csproj", "{556602CD-5EED-4329-A11B-3BCC50394856}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src.ApplicationCore", "src\src.ApplicationCore\src.ApplicationCore.csproj", "{556602CD-5EED-4329-A11B-3BCC50394856}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sln.Domain", "src\sln.Domain\sln.Domain.csproj", "{3ED5310E-BB4F-4C7B-881C-243D2752DF93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src.Domain", "src\src.Domain\src.Domain.csproj", "{3ED5310E-BB4F-4C7B-881C-243D2752DF93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
