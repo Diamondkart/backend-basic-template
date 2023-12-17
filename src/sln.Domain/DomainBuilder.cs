@@ -1,4 +1,4 @@
-﻿namespace sln.DomainBuilder
+﻿namespace sln.Domain
 {
     public class DomainBuilder
     {
